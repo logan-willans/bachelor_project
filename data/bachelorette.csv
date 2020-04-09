@@ -1,0 +1,483 @@
+,rette_id,name,first_name,age,occupation,winner,season_contestant,hair,her_city_id,her_state_id,her_country_id
+0,0,Amber,Amber,26,Psychologist,0,2,,0,0,1
+1,1,Angela,Angela,27,Registered Nurse,0,2,,1,1,1
+2,2,Anindita,Anindita,27,Attorney,0,2,,2,2,1
+3,3,Brooke Smith,Brooke,22,College Student,0,2,blonde,3,3,1
+4,4,Camille,Camille,29,Actress,0,2,,4,4,1
+5,5,Cari,Cari,29,3rd Grade Teacher,0,2,,5,5,1
+6,6,Christi,Christi,23,Assistant Financial Advisor,0,2,,6,6,1
+7,7,Christy,Christy,24,Radiological Technologist,0,2,,7,7,1
+8,8,Dana,Dana,24,Radio Sales,0,2,,8,4,1
+9,9,Erin,Erin,25,Publications Quality Control,0,2,,9,8,1
+10,10,Erin,Erin,24,Interior Designer,0,2,,10,9,1
+11,11,Fatima,Fatima,22,College Student,0,2,brown,11,4,1
+12,12,Frances,Frances,30,Strategic Planning Analyst,0,2,,12,4,1
+13,13,Gwen Gioia,Gwen,31,Executive Recruiter,0,2,blonde,13,8,1
+14,14,Hayley,Hayley,28,Retail Manager,0,2,,14,10,1
+15,15,Heather,Heather,24,Marriage Therapy Trainee,0,2,,15,4,1
+16,16,Heather Crawford,Heather,30,Flight Attendant,0,2,,16,9,1
+17,17,Helene Eksterowicz,Helene,27,School Psychologist,1,2,light brown,17,11,1
+18,18,Kyla,Kyla,22,Airline Supervisor,0,2,,18,12,1
+19,19,Liangy,Liangy,30,Paralegal,0,2,,19,13,1
+20,20,Lori,Lori,26,Former NBA Cheerleader,0,2,,16,9,1
+21,21,Merrilee,Merrilee,28,1st Grade Teacher,0,2,,20,11,1
+22,22,Shannon,Shannon,26,Graphic Artist,0,2,,21,2,1
+23,23,Suzanne,Suzanne,33,Flight Attendant,0,2,,22,4,1
+24,24,Suzi,Suzi,28,Communications Specialist,0,2,,23,14,1
+25,25,Alexa,Alexa,27,Special Ed. Teacher,0,1,,8,4,1
+26,26,Amanda Marsh,Amanda,23,Event Planner,1,1,blonde,24,15,1
+27,27,Amber,Amber,29,Business Development Director,0,1,,4,4,1
+28,28,Amy,Amy,28,Production Coordinator,0,1,,2,2,1
+29,29,Angela,Angela,25,Hooters Waitress,0,1,,7,7,1
+30,30,Angelique,Angelique,27,Actress,0,1,,25,4,1
+31,31,Cathy Grimes,Cathy,22,Graduate Student,0,1,light brown,26,16,1
+32,32,Christina,Christina,28,Attorney,0,1,,27,4,1
+33,33,Daniela,Daniela,30,Neuropsychologist,0,1,,28,17,1
+34,34,Denise,Denise,30,Doctor,0,1,brown,29,18,1
+35,35,Jackie,Jackie,22,Bar Manager,0,1,,30,8,1
+36,36,Jill,Jill,31,Retail Manager,0,1,,31,5,1
+37,37,Katie,Katie,23,Power Tool Sales Rep.,0,1,,32,19,1
+38,38,Kim,Kim,24,Nanny,0,1,blonde,33,7,1
+39,39,Kristina,Kristina,27,Advertising Executive,0,1,,4,4,1
+40,40,LaNease Adams,LaNease,23,Actress,0,1,,4,4,1
+41,41,Lisa,Lisa,29,Attorney,0,1,,16,9,1
+42,42,Melissa,Melissa,25,Photographer,0,1,brown,33,7,1
+43,43,Paula,Paula,24,Insurance Representative,0,1,,34,19,1
+44,44,Rachel,Rachel,29,6th Grade Teacher,0,1,,35,2,1
+45,45,Rhonda Rittenhouse,Rhonda,28,Commercial Real Estate Agent,0,1,red,36,20,1
+46,46,Shannon Oliver,Shannon,24,Financial Management Consultant,0,1,,16,9,1
+47,47,Tina Chen,Tina,27,Graduate Student,0,1,,37,9,1
+48,48,Trista Rehn,Trista,29,Miami Heat Dancer,0,1,blonde,38,13,1
+49,49,Wendi,Wendi,26,Technology Specialist,0,1,,16,9,1
+50,50,Alexis Young,Alexis,26,Attorney,0,10,brown,39,9,1
+51,51,Amanda Hackney,Amanda,26,Financial analyst,0,10,brown,16,9,1
+52,52,Amber Alchalabi,Amber,23,Teacher,0,10,brown,40,9,1
+53,53,Bevin Nicole Powers,Bevin,28,Assistant,0,10,blonde,41,4,1
+54,54,Blakeney Rowe,Blakeney,29,Radio sales,0,10,blonde,42,3,1
+55,55,Candace DeCost,Candace,23,Waitress,0,10,blonde,43,21,1
+56,56,Catherine Warren,Catherine,23,Former Miss Illinois,0,10,blonde,44,5,1
+57,57,Danielle Imwalle,Danielle,25,Graphic Designer,0,10,blonde,45,22,1
+58,58,Danielle Vallis,Danielle,26,Attorney,0,10,brown,46,2,1
+59,59,Erin Parker,Erin,24,Financial analyst,0,10,blonde,47,23,1
+60,60,Jackie Topelli,Jackie,23,Executive coordinator,0,10,brown,48,24,1
+61,61,Jeanette Alvarez,Jeanette,27,Health care manager,0,10,brown,49,13,1
+62,62,Jessica Devallo,Jessica,32,Hedge fund analyst,0,10,light brown,2,2,1
+63,63,Kate Brockhouse,Kate,24,Boutique owner,0,10,blonde,50,21,1
+64,64,Linda Malek,Linda,33,Attorney,0,10,brown,51,25,1
+65,65,Lindsay Smith,Lindsay,22,Student,0,10,brown,52,15,1
+66,66,Nicole Clary,Nicole,26,Sales Manager,0,10,black,53,21,1
+67,67,Peyton Wright,Peyton,24,Sorority recruiter,0,10,blonde,54,26,1
+68,68,Stephanie Tipper,Stephanie,27,Organ donor coordinator,0,10,brown,55,21,1
+69,69,Stephanie Wilhite,Stephanie,23,Project Manager,0,10,blonde,56,15,1
+70,70,Susan Anderson,Susan,23,Boutique manager,0,10,blonde,57,9,1
+71,71,Tessa Horst,Tessa,26,Social Worker,1,10,brown,12,4,1
+72,72,Tiffany Forester,Tiffany,27,Real estate sales/development,0,10,blonde,58,24,1
+73,73,Tiffany Warren,Tiffany,28,Medical equipment sales rep,0,10,blonde,59,19,1
+74,74,Tina Wu,Tina,26,Medical student,0,10,black,4,4,1
+75,75,"Alison ""Ali"" Harrington",Alison,27,Personal Stylist,0,22,blonde,60,20,1
+76,76,Amber Wilkerson,Amber,29,Business Owner,0,22,blonde,61,27,1
+77,77,Annaliese Puccini,Annaliese,32,Event Designer,0,22,blonde,62,4,1
+78,78,Ashley Luebke,Ashley,25,Real Estate Agent,0,22,black,63,13,1
+79,79,Bibiana Julian,Bibiana,30,Executive Assistant,0,22,brown,38,13,1
+80,80,"Brianna ""Bri"" Amaranthus",Brianna,25,Sports Reporter,0,22,brown,64,10,1
+81,81,Brittane Johnson,Brittane,27,Marketing Manager,0,22,black,65,4,1
+82,82,Brittany Taylor,Brittany,30,Tech Recruiter,0,22,black,66,21,1
+83,83,Caroline Lunny,Caroline,26,Realtor,0,22,brown,67,19,1
+84,84,Chelsea Roy,Chelsea,29,Real Estate Executive Assistant,0,22,blonde,68,28,1
+85,85,"D'Nysha ""Nysha"" Norris",D'Nysha,30,Orthopedic Nurse,0,22,black,69,21,1
+86,86,Jacqueline Trumbull,Jacqueline,26,Research Coordinator,0,22,brown,70,29,1
+87,87,Jenna Cooper,Jenna,28,Social Media Manager,0,22,blonde,71,0,1
+88,88,"Jennifer ""Jenny"" Delaney",Jennifer,25,Graphic Designer,0,22,blonde,72,5,1
+89,89,Jessica Carroll,Jessica,26,Television Host,0,22,blonde,73,30,2
+90,90,Kendall Long,Kendall,26,Creative Director,0,22,blonde,74,4,1
+91,91,Krystal Nielson,Krystal,30,Fitness Coach,0,22,blonde,75,31,1
+92,92,Lauren Burnham,Lauren,25,Technology Salesperson,1,22,blonde,76,14,1
+93,93,Lauren Griffin,Lauren,26,Executive Recruiter,0,22,black,77,16,1
+94,94,Lauren Jarreau,Lauren,33,Recent Master's Graduate,0,22,blonde,78,23,1
+95,95,Lauren Schleyer,Lauren,31,Social Media Manager,0,22,blonde,16,9,1
+96,96,Maquel Cooper,Maquel,23,Photographer,0,22,blonde,79,12,1
+97,97,Marikh Mathias,Marikh,27,Restaurant Owner,0,22,black,80,12,1
+98,98,Olivia Goethals,Olivia,23,Marketing Associate,0,22,black,81,5,1
+99,99,"Rebecca ""Becca"" Kufrin",Rebecca,27,Publicist,1,22,brown,82,24,1
+100,100,"Rebekah ""Bekah"" Martinez",Rebekah,22,Nanny,0,22,brown,83,4,1
+101,101,Seinne Fleming,Seinne,27,Commercial Real Estate Agent,0,22,black,11,4,1
+102,102,Tia Booth,Tia,26,Physical Therapist,0,22,brown,84,32,1
+103,103,Valerie Biles,Valerie,26,Server,0,22,brown,85,26,1
+104,104,Amber Bacon,Amber,23,Labor and delivery nurse,0,16,light brown,86,33,2
+105,105,Amber Tierney,Amber,28,Critical care nurse,0,16,brown,87,34,1
+106,106,Anna Snowball,Anna,25,Student,0,16,blonde,88,35,1
+107,107,Blakeley Jones,Blakeley,33,VIP cocktail waitress,0,16,brown,89,0,1
+108,108,Brittney Schreiner,Brittney,26,Medical sales representative,0,16,blonde,90,27,1
+109,109,Casey Shteamer,Casey,26,Trading clerk,0,16,blonde,91,15,1
+110,110,Courtney Robertson,Courtney,28,Model,1,16,brown,92,7,1
+111,111,Dianna Martinez,Dianna,30,Nonprofit director,0,16,brown,93,4,1
+112,112,Elyse Myers,Elyse,24,Personal trainer,0,16,black,31,5,1
+113,113,Emily O'Brien,Emily,27,PhD Student,0,16,blonde,0,0,1
+114,114,Erika Uhlig,Erika,23,Law student,0,16,brown,94,14,1
+115,115,Holly Johnson,Holly,34,Pharmaceutical sales representative,0,16,blonde,95,36,1
+116,116,Jaclyn Swartz,Jaclyn,27,Advertising account manager,0,16,blonde,96,19,1
+117,117,Jamie Otis,Jamie,25,Registered nurse,0,16,brown,97,2,1
+118,118,Jenna Burke,Jenna,27,Blogger,0,16,light brown,98,25,1
+119,119,Jennifer Fritsch,Jennifer,28,Accountant,0,16,brown,99,20,1
+120,120,Kacie Boguskie ,Kacie,24,Administrative assistant,0,16,brown,100,26,1
+121,121,Lindzi Cox,Lindzi,27,Business development manager,0,16,brown,101,17,1
+122,122,Lyndsie James,Lyndsie,29,Internet entrepreneur,0,16,blonde,102,37,3
+123,123,Monica Spannbauer,Monica,33,Dental consultant,0,16,blonde,103,4,1
+124,124,Nicki Sterling,Nicki,26,Dental hygienist,0,16,brown,104,9,1
+125,125,Rachel Truehart,Rachel,27,Fashion sales representative,0,16,blonde,105,19,1
+126,126,Samantha Levey,Samantha,26,Advertising account manager,0,16,blonde,30,8,1
+127,127,Shawn Reynolds,Shawn,28,Financial advisor,0,16,blonde,106,25,1
+128,128,Shira Astrof,Shira,35,Actress,0,16,brown,107,2,1
+129,129,"Amanda ""Mandi"" Kremer",Amanda,28,Dentist,0,20,blonde,108,10,1
+130,130,Amanda Stanton,Amanda,25,Esthetician,0,20,blonde,109,4,1
+131,131,Amber James,Amber,30,Bartender,0,20,light brown,110,5,1
+132,132,Breanne Rice,Breanne,30,Nutritional Therapist,0,20,brown,28,17,1
+133,133,Caila Quinn,Caila,24,Software Sales Representative,0,20,black,111,25,1
+134,134,Emily Ferguson,Emily,23,Waitress,0,20,blonde,112,38,1
+135,135,Haley Ferguson,Haley,23,Waitress,0,20,blonde,112,38,1
+136,136,"Isabel ""Izzy"" Goodkind",Isabel,24,Graphic Designer,0,20,brown,113,22,1
+137,137,"Jacqueline ""Jackie"" Dion",Jacqueline,23,Gerontologist,0,20,brown,114,4,1
+138,138,Jami Letain,Jami,23,Bartender,0,20,brown,115,30,2
+139,139,Jennifer Saviano,Jennifer,25,Small Business Owner,0,20,brown,116,13,1
+140,140,Jessica Moser,Jessica,23,Accountant,0,20,brown,117,13,1
+141,141,"Joelle ""JoJo"" Fletcher",Joelle,24,Real Estate Developer,0,20,brown,16,9,1
+142,142,Jubilee Sharpe,Jubilee,24,War Veteran,0,20,black,118,13,1
+143,143,Lace Morris,Lace,25,Real Estate Agent,0,20,brown,61,27,1
+144,144,Laura Esselman,Laura,24,Account Executive,0,20,red,119,36,1
+145,145,"Lauren ""LB"" Barr",Lauren,23,Fashion Buyer,0,20,brown,120,20,1
+146,146,Lauren Bushnell,Lauren,25,Flight Attendant,1,20,blonde,121,10,1
+147,147,Lauren Himle,Lauren,25,Kindergarten Teacher,0,20,blonde,122,35,1
+148,148,Lauren Russell,Lauren,26,Math Teacher,0,20,brown,10,9,1
+149,149,Leah Block,Leah,25,Event Planner,0,20,blonde,123,27,1
+150,150,Maegan Miller,Maegan,30,Cowgirl,0,20,brown,124,4,1
+151,151,Olivia Caridi,Olivia,23,Former News Anchor,0,20,blonde,125,14,1
+152,152,Rachel Tchen,Rachel,23,Unemployed,0,20,black,126,32,1
+153,153,Becca Tilley,Becca,26,Chiropractic Assistant,0,20,blonde,127,23,1
+154,154,Samantha Passmore,Samantha,26,Attorney,0,20,blonde,128,13,1
+155,155,Shushanna Mkrtychyan,Shushanna,27,Property Manager,0,20,brown,80,12,1
+156,156,Tiara Soleim,Tiara,27,Chicken Enthusiast,0,20,blonde,129,17,1
+157,157,Alli Travis,Alli,24,Apparel merchant,0,15,brown,130,25,1
+158,158,Ashley Hebert,Ashley,26,Dental Student,0,15,brown,131,28,1
+159,159,Ashley Spivey,Ashley,26,Nanny,0,15,blonde,132,0,1
+160,160,Bettina Bell,Bettina,27,Realtor,0,11,blonde,133,39,1
+161,161,Britnee,Britnee,25,Paralegal,0,15,brown,134,8,1
+162,162,Britt Billmaier,Britt,25,Food writer,0,15,blonde,135,17,1
+163,163,Chantal O'Brien,Chantal,28,Executive Assistant,0,15,black,136,17,1
+164,164,Cristy Caserta,Cristy,30,Attorney,0,15,blonde,137,13,1
+165,165,Deanna Pappas,Deanna,25,Realtor,0,11,brown,138,40,1
+166,166,Emily Maynard,Emily,25,Children's Hospital Event Planner,1,15,blonde,70,29,1
+167,167,Erin Gardner,Erin,25,Publishing sales executive,0,11,blonde,49,13,1
+168,168,"Estefania ""Stephy"" Kootz",Estefania,26,Executive assistant,0,11,brown,139,40,1
+169,169,Hillary Reisinger,Hillary,27,Registered nurse,0,11,blonde,13,8,1
+170,170,Jackie Gordon,Jackie,26,Artist,0,15,brown,140,41,1
+171,171,Jade Beazley,Jade,24,Boutique sales worker,0,11,brown,85,26,1
+172,172,Jenni Croft,Jenni,27,Phoenix Suns Cheerleader,0,11,brown,141,15,1
+173,173,"Jessica ""J"" Adams",Jessica,26,Operations Manager,0,15,brown,28,17,1
+174,174,Jessica Kiss,Jessica,27,News anchor,0,11,blonde,142,13,1
+175,175,Jill Ruskowski,Jill,28,Sales director,0,15,brown,143,9,1
+176,176,Juli Gilliam,Juli,24,Law student,0,11,blonde,31,5,1
+177,177,Keltie Colleen,Keltie,28,Radio City Rockette,0,15,light brown,144,30,2
+178,178,Kim Orville,Kim,31,Realtor,0,11,light brown,145,22,1
+179,179,Kimberly Coon,Kimberly,27,Marketing Coordinator,0,15,blonde,146,13,1
+180,180,Kristy Katzmann,Kristy,29,Acupuncturist,0,11,brown,147,5,1
+181,181,Lacey Garbelman,Lacey,27,Insurance agent,0,15,blonde,49,13,1
+182,182,Lauren Moore,Lauren,26,High School Teacher,0,15,blonde,148,14,1
+183,183,Lindsay Hill,Lindsay,25,First grade teacher,0,15,red,37,9,1
+184,184,Lindsey Hawkins,Lindsey,25,Model,0,11,blonde,149,35,1
+185,185,Lisa Morrisey,Lisa,24,Marketing Coordinator,0,15,brown,150,15,1
+186,186,Lisa Pastrich,Lisa,27,Sales Consultant,0,15,blonde,151,2,1
+187,187,Lori Langley,Lori,33,Biology teacher,0,11,blonde,152,42,1
+188,188,Madison Garton,Madison,25,Model,0,15,blonde,153,27,1
+189,189,Mallory Simons,Mallory,24,Nanny,0,11,blonde,29,18,1
+190,190,Marissa May,Marissa,26,Sports Publicist,0,15,brown,154,7,1
+191,191,McCarten Delaney,McCarten,26,Account manager,0,11,light brown,155,4,1
+192,192,Meghan Merritt,Meghan,30,Fashion Marketer,0,15,brown,156,11,1
+193,193,Melissa Buschel,Melissa,28,Event planner,0,11,blonde,9,2,1
+194,194,Melissa Schreiber,Melissa,32,Waitress,0,15,blonde,157,22,1
+195,195,Michele Leavy,Michele,30,Realtor,0,11,blonde,158,11,1
+196,196,Michelle Money,Michelle,30,Hair stylist,0,15,brown,80,12,1
+197,197,Morgan Becker,Morgan,24,Graduate student,0,11,brown,33,7,1
+198,198,Natalie Velasco,Natalie,25,Law student,0,11,brown,159,9,1
+199,199,Raichel Goodyear,Raichel,29,Manscaper,0,15,black,160,4,1
+200,200,Rebecca,Rebecca,30,Esthetician,0,15,brown,161,4,1
+201,201,Regina Doringa,Regina,31,Account representative,0,11,black,65,4,1
+202,202,Renee Halpin,Renee,28,Nanny,0,15,light brown,162,5,1
+203,203,Sarah Ledtke,Sarah,25,Musical Theatre Performer,0,15,brown,163,35,1
+204,204,Sarah Newlon,Sarah,23,Bar manager,0,11,brown,164,5,1
+205,205,Sarah Powell,Sarah,27,Real Estate Broker,0,15,blonde,61,27,1
+206,206,Shawntel Newton,Shawntel,25,Funeral Director,0,15,brown,165,4,1
+207,207,Sheena Stewart,Sheena,23,Internet marketing executive,0,11,blonde,15,4,1
+208,208,Solisa Shoop,Solisa,25,Esthetician,0,11,black,166,9,1
+209,209,Stacey Quirpel,Stacey,26,Bartender,0,15,brown,167,19,1
+210,210,Susan Stein,Susan,35,Project analyst,0,11,brown,168,5,1
+211,211,Tauni Nessler ,Tauni,31,Emergency room nurse,0,11,light brown,58,24,1
+212,212,Alissa Giambrone,Alissa,24,Flight Attendant,0,19,brown,169,11,1
+213,213,Amanda Goerlitz,Amanda,24,Ballet Teacher,0,19,blonde,170,5,1
+214,131,Amber James,Amber,29,Bartender,0,19,light brown,110,5,1
+215,215,Ashley Iaconetti,Ashley,26,Nanny/Freelance Journalist,0,19,brown,171,14,1
+216,216,Ashley Salter,Ashley,24,Hair Stylist,0,19,blonde,172,40,1
+217,153,Becca Tilley,Becca,25,Chiropractic Assistant,0,19,blonde,127,23,1
+218,218,Bo Stanley,Bo,25,Plus-Size Model,0,19,blonde,173,4,1
+219,219,Britt Nilsson,Britt,27,Waitress,0,19,blonde,174,35,1
+220,220,Brittany Fetkin,Brittany,26,WWE Diva-in-Training,0,19,brown,175,4,1
+221,221,Carly Waddell,Carly,29,Cruise Ship Singer,0,19,blonde,176,9,1
+222,222,Jade Roper,Jade,28,Cosmetics Developer,0,19,brown,177,34,1
+223,223,Jillian Anderson,Jillian,25,News Producer,0,19,brown,178,25,1
+224,224,Jordan Branch,Jordan,24,Student,0,19,blonde,179,27,1
+225,225,Juelia Kinney,Juelia,30,Esthetician,0,19,blonde,180,10,1
+226,226,Kaitlyn Bristowe,Kaitlyn,29,Dance Instructor,0,19,brown,181,30,2
+227,227,Kara Wilson,Kara,25,High School Soccer Coach,0,19,blonde,182,36,1
+228,228,Kelsey Poe,Kelsey,28,Guidance Counselor,0,19,brown,183,35,1
+229,229,Kimberly Sherbach,Kimberly,28,Yoga Instructor,0,19,brown,184,2,1
+230,230,Mackenzie Deonigi,Mackenzie,21,Dental Assistant,0,19,brown,185,17,1
+231,231,Megan Bell,Megan,24,Make-Up Artist,0,19,blonde,85,26,1
+232,232,Michelle Davis,Michelle,25,Wedding Cake Baker,0,19,brown,186,12,1
+233,233,Nicole Meacham,Nicole,31,Real Estate Agent,0,19,red,92,7,1
+234,234,Nikki Delventhal,Nikki,26,Former NFL Cheerleader,0,19,brown,187,11,1
+235,235,Reegan Cornwell,Reegan,28,Cadaver Tissue Saleswoman,0,19,blonde,188,4,1
+236,236,Samantha Steffen,Samantha,27,Fashion Designer,0,19,black,77,16,1
+237,237,Tandra Steiner,Tandra,30,Executive Assistant,0,19,blonde,189,12,1
+238,238,Tara Eddings,Tara,26,Sport Fishing Enthusiast,0,19,blonde,118,13,1
+239,239,Tracy Darakis,Tracy,29,Fourth Grade Teacher,0,19,brown,190,13,1
+240,240,Trina Scherenberg,Trina,33,Special Education Teacher,0,19,blonde,191,5,1
+241,241,Whitney Bischoff,Whitney,29,Fertility Nurse,1,19,blonde,119,36,1
+242,242,Alex Blumberg,Alex,29,Dog Rescuer,0,23,brown,192,33,2
+243,243,Alex Dillon,Alex,23,Account Manager,0,23,light brown,59,19,1
+244,244,Angelique Sherman,Angelique,28,Marketing Salesperson,0,23,black,169,11,1
+245,245,Annie Reardon,Annie,23,Financial Associate,0,23,blonde,193,43,1
+246,246,"Brianna ""Bri"" Barnes",Brianna,24,Model,0,23,blonde,4,4,1
+247,247,Caelynn Miller-Keyes,Caelynn,23,Miss North Carolina USA 2018,0,23,blonde,194,14,1
+248,248,Caitlin Clemmens,Caitlin,25,Realtor,0,23,brown,195,44,2
+249,249,Cassie Randolph,Cassie,23,Speech Pathologist,1,23,blonde,15,4,1
+250,250,Catherine Agro,Catherine,26,DJ,0,23,blonde,118,13,1
+251,251,Courtney Curtis,Courtney,23,Caterer,0,23,black,196,40,1
+252,252,Demi Burnett,Demi,23,Interior Designer,0,23,blonde,197,9,1
+253,253,Devin Gooden,Devin,23,Broadcast Journalist,0,23,brown,139,40,1
+254,254,Elyse Dehlbom,Elyse,31,Makeup Artist,0,23,red,198,45,1
+255,255,Erika McNutt,Erika,25,Recruiter,0,23,blonde,199,4,1
+256,256,Erin Landry,Erin,28,Human Resources Manager,0,23,blonde,37,9,1
+257,257,Hannah Brown,Hannah,24,Miss Alabama USA 2018,0,23,light brown,200,3,1
+258,258,Hannah Godwin,Hannah,23,Content Creator,0,23,blonde,201,3,1
+259,259,Heather Martin,Heather,23,Assistant Program Manager,0,23,blonde,202,4,1
+260,260,Jane Averbukh,Jane,26,Social Worker,0,23,brown,203,4,1
+261,261,Katie Morton,Katie,26,Medical Sales Representative,0,23,black,204,13,1
+262,262,Kirpa Sudick,Kirpa,26,Dental Hygienist,0,23,light brown,205,4,1
+263,263,Laura Pellerito,Laura,26,Accountant,0,23,brown,16,9,1
+264,264,Nicole Lopez-Alvar,Nicole,25,Social Media Coordinator,0,23,light brown,38,13,1
+265,265,Nina Bartula,Nina,30,Sales Account Manager,0,23,blonde,71,0,1
+266,266,Onyeka Ehie,Onyeka,24,IT Risk Consultant,0,23,black,206,15,1
+267,267,Revian Chang,Revian,24,Nurse,0,23,blonde,207,9,1
+268,268,Sydney Lotuaco,Sydney,27,NBA Dancer,0,23,black,76,14,1
+269,269,Tahzjuan Hawkins,Tahzjuan,25,Business Development Associate,0,23,black,208,27,1
+270,270,Tayshia Adams,Tayshia,28,Phlebotomist,0,23,black,209,4,1
+271,271,Tracy Shapoff,Tracy,31,Wardrobe Stylist,0,23,brown,210,2,1
+272,272,Alexa (Lex) McAllister,Alexa,25,Entrepreneur,0,14,blonde,211,25,1
+273,273,Ali Fedotowsky,Ali,25,Advertising Account Manager,0,14,blonde,212,19,1
+274,274,Ashleigh Hunt,Ashleigh,25,Account Manager,0,14,blonde,213,42,1
+275,275,Ashley Elmore,Ashley,29,Teacher,0,14,brown,30,8,1
+276,276,Caitlyn McCabe,Caitlyn,24,Spokesmodel,0,14,brown,214,5,1
+277,277,Channy Choch,Channy,29,Mortgage Loan Officer,0,14,black,215,4,1
+278,278,Christina McCasland,Christina,25,Restaurant Manager,0,14,blonde,65,4,1
+279,279,Corrie Adamson,Corrie,23,Wardrobe Consultant,0,14,blonde,216,13,1
+280,280,Elizabeth Kitt ,Elizabeth,29,Nanny,0,14,blonde,217,34,1
+281,281,Elizabeth Kreft ,Elizabeth,29,"Captain, Air National Guard",0,14,brown,218,36,1
+282,282,Ella Nolan,Ella,30,Hair Stylist,0,14,brown,219,26,1
+283,283,Emily Harkins,Emily,23,Fitness Model,0,14,brown,220,25,1
+284,284,Gia Allemand,Gia,26,Swimsuit Model,0,14,brown,2,2,1
+285,285,Jessie Sulidis,Jessie,25,Cosmetic Sales Manager,0,14,brown,221,44,2
+286,286,Kathryn Sherlock,Kathryn,25,Corporate Flight Attendant,0,14,blonde,222,36,1
+287,287,Kimberly Sullivan,Kimberly,24,NBA Dancer,0,14,brown,223,20,1
+288,288,Kirsten Pittman,Kirsten,25,Waitress,0,14,blonde,224,27,1
+289,289,Michelle Kujawa,Michelle,26,Office Manager,0,14,brown,225,4,1
+290,290,Rozlyn Papa,Rozlyn,28,Model/Make-Up Artist,0,14,blonde,23,14,1
+291,291,Sheila Marie Lidner,Sheila,25,Commercial Pilot,0,14,blonde,92,7,1
+292,292,Stephanie Mueller,Stephanie,24,Dance Teacher,0,14,brown,226,5,1
+293,293,Tenley Molzahn,Tenley,25,College Admissions,0,14,blonde,227,10,1
+294,294,Tiana Kruzel,Tiana,31,Medical Technician,0,14,blonde,73,30,2
+295,295,Valishia Savage,Valishia,32,Homemaker,0,14,brown,228,4,1
+296,296,Vienna Girardi,Vienna,23,Marketing Representative,1,14,blonde,229,13,1
+297,297,Ann Lueders,Ann,24,Flight Attendant,0,13,brown,230,7,1
+298,298,Dominique Carta,Dominique,26,Medical Sales Rep.,0,13,light brown,231,8,1
+299,299,Emily,Emily,23,Casino Marketing Rep.,0,13,blonde,28,17,1
+300,300,Erica DeSimone,Erica,25,Account Executive,0,13,light brown,232,22,1
+301,301,Jackie Hickey,Jackie,26,Wedding Coordinator,0,13,brown,233,19,1
+302,302,Jillian Harris,Jillian,29,Interior Designer,0,13,brown,234,30,2
+303,303,Julie Dermotta,Julie,26,Teacher,0,13,black,130,25,1
+304,304,Kari Fajen,Kari,27,Account Executive,0,13,brown,235,1,1
+305,305,Lauren Wanger,Lauren,27,Teacher,0,13,blonde,236,11,1
+306,306,Lisa Gonzalez,Lisa,28,Public Relations Associate,0,13,brown,6,6,1
+307,307,Megan Parris,Megan,25,Single Mother and Lacrosse Coach,0,13,brown,237,8,1
+308,308,Melissa Rycroft,Melissa,25,Sales Representative,1,13,brown,16,9,1
+309,309,Molly Malaney,Molly,24,Department Store Buyer,0,13,light brown,238,43,1
+310,310,Naomi Rose Crespo,Naomi,24,Flight Attendant,0,13,brown,202,4,1
+311,311,Natalie Getz,Natalie,27,Human Resources Recruiter,0,13,blonde,239,5,1
+312,312,"Nicole ""Nikki"" Kaapke",Nicole,29,Administrative Assistant,0,13,black,240,5,1
+313,313,Nicole Mah,Nicole,25,Menswear Buyer,0,13,black,73,30,2
+314,314,Raquel Medeiros,Raquel,27,Medical Student,0,13,black,241,46,4
+315,315,Renee Simlak,Renee,36,Jewelry Designer,0,13,brown,242,35,1
+316,316,Shannon Bair,Shannon,29,Dental Hygienist,0,13,brown,243,1,1
+317,317,Sharon Staebell,Sharon,32,Teacher,0,13,blonde,244,2,1
+318,318,Shelby,Shelby,23,Account Executive,0,13,blonde,245,4,1
+319,319,Stacia Mann,Stacia,24,Single Mother & Charity Accountant,0,13,brown,246,12,1
+320,320,Stephanie Hogan,Stephanie,34,Single Mother & Medical Marketing Rep.,0,13,brown,247,3,1
+321,321,Treasure Morgan,Treasure,28,Single Mother and Nurse Practitioner,0,13,brown,80,12,1
+322,322,Amber LaRoux,Amber,27,Consultant,0,5,,248,10,1
+323,323,Anne-Catherine Labbé,Anne-Catherine,27,Model/make-up artist,0,5,,249,47,2
+324,324,Celeste Creel,Celeste,24,Model/executive assistant,0,5,,250,2,1
+325,325,Debbie Merkett,Debbie,27,Massage therapist/bartender,0,5,,251,0,1
+326,326,DeShaun Warner,DeShaun,25,Account manager/sales,0,5,,252,11,1
+327,327,Dolores Farburg,Dolores,26,Account manager,0,5,,253,11,1
+328,328,Francine Jones,Francine,25,Retail manager,0,5,,10,9,1
+329,329,Holly Reeder,Holly,26,Bank representative,0,5,,254,20,1
+330,330,Jean-Marie Callahan,Jean-Marie,26,Hair stylist,0,5,black,255,0,1
+331,331,Jenny De Schiralli,Jenny,26,Swim instructor/nanny/personal trainer,0,5,,256,0,1
+332,332,Jenny Matthews,Jenny,24,Retail manager,0,5,,257,35,1
+333,333,Jessica Bowlin,Jessica,22,Student,1,5,blonde,258,4,1
+334,334,Jessica Holcomb,Jessica,25,Attorney,0,5,,259,9,1
+335,335,Jessica Kyron,Jessica,21,Student,0,5,,106,25,1
+336,336,Julie Durda,Julie,24,Professional Cheerleader,0,5,,260,4,1
+337,337,Karen Lindsay,Karen,28,Pharmaceutical sales,0,5,,261,12,1
+338,338,Katie Gehart,Katie,22,LASIK Eye and Skin Center manager,0,5,,92,7,1
+339,339,Kristin Clearwater,Kristin,25,Singer,0,5,,262,4,1
+340,340,Kristy Romero,Kristy,25,Student,0,5,,263,35,1
+341,341,Mandy Clemens,Mandy,25,Professional soccer player,0,5,,65,4,1
+342,342,Mandy Jaye Jeffreys,Mandy,26,Designer for an architect firm,0,5,,264,9,1
+343,343,Rachel Clementi,Rachel,26,Fashion public relations manager,0,5,,265,2,1
+344,344,Suzie Williams,Suzie,23,Prosthetic technician,0,5,,266,35,1
+345,345,Tara Huckeby,Tara,23,General contractor,0,5,blonde,267,20,1
+346,346,Trish Schneider,Trish,28,Model,0,5,,139,40,1
+347,347,Alexis Morgado,Alexis,24,Communications Director/NHL Ice Girl,0,18,brown,49,13,1
+348,348,Alli Restko,Alli,26,Nanny,0,18,brown,268,5,1
+349,349,Amy Jokinen,Amy,31,Massage Therapist,0,18,brown,269,13,1
+350,350,Amy Long,Amy,27,Local News Reporter,0,18,brown,270,13,1
+351,351,Andi Dorfman,Andi,26,Assistant District Attorney,0,18,brown,271,40,1
+352,352,Ashley Poe,Ashley,25,Grade School Teacher,0,18,black,272,9,1
+353,353,Cassandra Ferguson,Cassandra,22,Former NBA Dancer,0,18,brown,273,35,1
+354,354,Chantel Forrest,Chantel,27,Account Manager,0,18,black,38,13,1
+355,355,Chelsie Webster,Chelsie,24,Science Educator,0,18,blonde,222,25,1
+356,356,Christine Llano,Christine,23,Police Support Specialist,0,18,blonde,38,13,1
+357,357,Christy Hansen,Christy,24,Marketing Manager,0,18,blonde,224,5,1
+358,358,Clare Crawley,Clare,32,Hairstylist,0,18,blonde,260,4,1
+359,359,Danielle Ronco,Danielle,25,Psychiatric Nurse,0,18,black,274,5,1
+360,360,Elise Mosca,Elise,27,First Grade Teacher,0,18,blonde,275,8,1
+361,361,Kat Hurd,Kat,29,Medical Sales Representative/NBA Dancer,0,18,blonde,276,48,1
+362,362,Kelly Travis,Kelly,27,Dog Lover,0,18,brown,277,40,1
+363,363,Kylie Lewis,Kylie,23,Interior Designer,0,18,red,278,5,1
+364,364,Lacy Faddoul,Lacy,25,Nursing Home Owner,0,18,blonde,279,4,1
+365,365,Lauren Higginson,Lauren,25,Mineral Coordinator,0,18,light brown,280,20,1
+366,366,Lauren Solomon,Lauren,26,Music Composer,0,18,brown,207,9,1
+367,367,"Lucinda ""Lucy"" Aragon",Lucinda,25,Free Spirit,0,18,brown,281,4,1
+368,368,Maggie Gantt,Maggie,25,Personal Banker,0,18,brown,282,21,1
+369,369,Nikki Ferrell,Nikki,26,Pediatric Nurse,1,18,blonde,283,1,1
+370,370,Renee Oteri,Renee,32,Real Estate Agent,0,18,blonde,284,19,1
+371,371,Sharleen Joynt,Sharleen,29,Opera Singer,0,18,brown,150,44,2
+372,372,Valerie Eredia,Valerie,26,Personal Trainer,0,18,brown,285,4,1
+373,373,Victoria Lima,Victoria,24,Legal Assistant,0,18,brown,286,49,4
+374,374,Agnese Polliza,Agnese,24,Student,0,9,brown,287,50,5
+375,375,Andrea Shirley,Andrea,28,Hotel concierge,0,9,,106,25,1
+376,376,April Jacobs,April,23,Model,0,9,,31,5,1
+377,377,Britt (Bowe) Newton,Britt,28,Beer chemist,0,9,,130,25,1
+378,378,Carissa Ilburg,Carissa,25,Attorney,0,9,,288,2,1
+379,379,Claudia Gismondi,Claudia,22,Restaurateur,0,9,,117,13,1
+380,380,Cosetta Blanca,Cosetta,26,Dancer,0,9,,289,51,5
+381,381,Desiree Valentin,Desiree,22,Realtor,0,9,,80,12,1
+382,382,Ellen DeMaio,Ellen,30,Realtor,0,9,,290,22,1
+383,383,Elyse Hammer,Elyse,27,Physician,0,9,,2,2,1
+384,384,Erica Rose,Erica,23,Socialite,0,9,blonde,10,9,1
+385,385,Gina Clark,Gina,28,Ultrasound technician,0,9,,31,5,1
+386,386,Heather Sneed,Heather,34,Registered nurse,0,9,,291,8,1
+387,387,Jami Matzke,Jami,27,Event planner,0,9,,292,9,1
+388,388,Jeanette Pawula,Jeanette,23,Teacher,0,9,,293,5,1
+389,389,Jennifer Wilson,Jennifer,24,Teacher,1,9,blonde,294,13,1
+390,390,Jessica Horner,Jessica,25,Assistant buyer,0,9,,295,0,1
+391,391,Kim Jackson,Kim,27,Interior designer,0,9,,114,4,1
+392,392,Laura Morgan,Laura,29,Dolphin trainer,0,9,,65,4,1
+393,393,Lisa Blank,Lisa,25,Marketing manager,0,9,,108,10,1
+394,394,Meri Barr,Meri,27,Attorney,0,9,brown,296,52,1
+395,395,Renee Snell,Renee,30,Broadcast marketer,0,9,,297,42,1
+396,396,Rita Ghazal,Rita,29,Policy advisor,0,9,,23,14,1
+397,397,Rosella Fratto,Rosella,27,Make-up artist,0,9,,31,5,1
+398,398,Sadie Murray,Sadie,23,Publicist,0,9,blonde,202,4,1
+399,399,Sarah Schnare,Sarah,30,Journalist,0,9,brown,298,33,2
+400,400,Tara Durr,Tara,24,Realtor,0,9,,299,13,1
+401,401,Alyssa Gill,Alyssa,24,Biology student,0,12,blonde,6,6,1
+402,402,Amanda Petterman,Amanda,26,Law student,0,12,blonde,300,26,1
+403,403,Amanda Rantuccio,Amanda,27,Account Executive,0,12,brown,301,13,1
+404,404,Amy,Amy,22,Nanny,0,12,,245,4,1
+405,405,Ashlee Willis,Ashlee,22,Singer-songwriter,0,12,blonde,302,13,1
+406,406,Carri Perrier,Carri,25,Church marketing rep.,0,12,blonde,303,20,1
+407,407,Chelsea Wanstrath,Chelsea,25,Pharmaceutical sales rep.,0,12,blonde,304,27,1
+408,408,Denise Hawthorne,Denise,30,Attorney and former White House aide,0,12,brown,133,39,1
+409,409,Devon Antin,Devon,24,Makeup artist,0,12,blonde,207,9,1
+410,410,Erin Harper,Erin,25,Event planner,0,12,brown,28,17,1
+411,411,Erin Storm,Erin,33,Hot-dog vendor,0,12,blonde,287,4,1
+412,412,Holly Durst,Holly,24,Children's book author,0,12,brown,305,25,1
+413,413,Kelly Duncan,Kelly,25,Medical sales rep.,0,12,blonde,306,4,1
+414,414,Kristine Heffelfinger,Kristine,33,Personal trainer,0,12,blonde,307,8,1
+415,415,Lesley Geyer,Lesley,23,Youth minister,0,12,brown,49,13,1
+416,416,Marshana Ritchie,Marshana,27,Fashion designer,0,12,black,308,2,1
+417,417,Michele R.,Michele,33,Interior designer,0,12,brown,309,4,1
+418,418,Michelle P.,Michelle,28,Administrative assistant,0,12,red,310,2,1
+419,419,Noelle Drake,Noelle,26,Photographer,0,12,red,98,27,1
+420,420,Rebecca LeBlanc,Rebecca,30,Attorney,0,12,brown,311,4,1
+421,421,Robin Canfield,Robin,22,Advertising coordinator,0,12,brown,134,35,1
+422,422,Shayne Lamas,Shayne,22,Actress,1,12,blonde,312,4,1
+423,423,Stacey Elza,Stacey,26,Graduate student,0,12,blonde,31,5,1
+424,424,Tamara Sketz,Tamara,23,Cocktail waitress,0,12,brown,8,4,1
+425,425,Tiffany Thornburg,Tiffany,33,Real estate marketing rep.,0,12,brown,12,4,1
+426,426,Alexis Waters,Alexis,23,Aspiring Dolphin Trainer,0,21,brown,313,11,1
+427,427,Angela Amezcua,Angela,26,Model,0,21,brown,314,42,1
+428,428,Astrid Loch,Astrid,26,Plastic Surgery Office Manager,0,21,brown,49,13,1
+429,429,Briana Guertler,Briana,28,Surgical Unit Nurse,0,21,brown,80,12,1
+430,430,Brittany Farrar,Brittany,26,Travel Nurse,0,21,brown,315,4,1
+431,431,Christen Whitney,Christen,25,Wedding Videographer,0,21,brown,316,16,1
+432,432,Corinne Olympios,Corinne,24,Business Owner,0,21,blonde,38,13,1
+433,433,Danielle Lombard,Danielle,27,Small Business Owner,0,21,brown,317,4,1
+434,434,Danielle Maltby,Danielle,31,Neonatal Nurse,0,21,blonde,318,43,1
+435,435,Dominique Alexis,Dominique,25,Restaurant Server,0,21,black,4,4,1
+436,436,Elizabeth Whitelaw,Elizabeth,24,Marketing Manager,0,21,blonde,319,5,1
+437,437,Hailey Merkt,Hailey,23,Photographer,0,21,light brown,192,33,2
+438,438,Ida Marie DeLosSantos,Ida,23,Sales Manager,0,21,brown,320,9,1
+439,439,Jaimi King,Jaimi,28,Chef,0,21,light brown,321,23,1
+440,440,Jasmine Brown,Jasmine,25,Flight Attendant,0,21,black,322,17,1
+441,441,Jasmine Goode,Jasmine,29,Pro Basketball Dancer,0,21,black,323,11,1
+442,442,Josephine Tutman,Josephine,24,Registered Nurse,0,21,blonde,324,4,1
+443,443,Kristina Schulman,Kristina,24,Dental Hygienist,0,21,brown,222,36,1
+444,444,Lacey Mark,Lacey,25,Digital Marketing Manager,0,21,blonde,325,11,1
+445,445,Lauren Hussey,Lauren,30,Law School Graduate,0,21,blonde,326,13,1
+446,446,Liz Sandoz,Liz,29,Doula,0,21,brown,327,34,1
+447,447,Michelle Ramkissoon,Michelle,24,Food Truck Owner,0,21,black,4,4,1
+448,448,Olivia Burnette,Olivia,25,Apparel Sales Representative,0,21,brown,328,45,1
+449,449,Rachel Lindsay,Rachel,31,Attorney,0,21,black,16,9,1
+450,450,Raven Gates,Raven,25,Fashion Boutique Owner,0,21,black,329,32,1
+451,451,Sarah Vendal,Sarah,26,Grade School Teacher,0,21,light brown,330,4,1
+452,452,Susannah Milan,Susannah,26,Account Manager,0,21,brown,65,4,1
+453,453,Taylor Nolan,Taylor,23,Mental Health Counselor,0,21,brown,28,17,1
+454,454,Vanessa Grimaldi,Vanessa,29,Special Education Teacher,1,21,brown,331,47,2
+455,455,Whitney Fransway,Whitney,25,Pilates Instructor,0,21,brown,332,24,1
+456,456,Amanda Meyer,Amanda,26,Fit Model,0,17,brown,114,4,1
+457,457,AshLee Frazier,AshLee,32,Personal Organizer,0,17,blonde,10,9,1
+458,458,Ashley Harper,Ashley,25,Fashion Model,0,17,black,61,27,1
+459,459,Ashley Palenkas,Ashley,28,Hair Stylist,0,17,blonde,333,35,1
+460,460,Brooke Burchette,Brooke,25,Community Organizer,0,17,black,30,8,1
+461,461,Catherine Giudici,Catherine,26,Graphic Designer,1,17,brown,28,17,1
+462,462,Daniella McBride,Daniella,24,Commercial Casting Associate,0,17,blonde,12,4,1
+463,463,Desiree Hartsock,Desiree,26,Bridal Stylist,0,17,brown,334,27,1
+464,464,Diana Weeks Willardson,Diana,31,Salon Owner,0,17,light brown,189,12,1
+465,465,Jackie Parr,Jackie,25,Cosmetics Consultant,0,17,brown,335,13,1
+466,466,Kacie Boguskie ,Kacie,25,Administrative Assistant,0,17,brown,100,26,1
+467,467,Katie Levans,Katie,27,Yoga Instructor,0,17,light brown,295,0,1
+468,468,Kelly Dutton,Kelly,28,Cruise Ship Entertainer,0,17,blonde,336,26,1
+469,469,Keriann Miranda,Keriann,29,Entrepreneur,0,17,blonde,117,13,1
+470,470,Kristy Kaminski,Kristy,25,Model,0,17,brown,337,43,1
+471,471,Lacey Latka,Lacey,24,Graduate Student,0,17,blonde,338,4,1
+472,472,Lauren Marchetti,Lauren,27,Journalist,0,17,blonde,339,41,1
+473,473,Lesley Murphy,Lesley,24,Political Consultant,0,17,blonde,340,32,1
+474,474,Leslie Hughes,Leslie,28,Poker Dealer,0,17,black,341,13,1
+475,475,Lindsay Yenter,Lindsay,24,Substitute Teacher,0,17,light brown,342,0,1
+476,476,Paige Vigil,Paige,25,Jumbotron Operator,0,17,brown,343,24,1
+477,477,Robyn Howard,Robyn,24,Oil Field Account Manager,0,17,black,344,15,1
+478,478,Sarah Herron,Sarah,26,Advertising Executive,0,17,blonde,345,27,1
+479,479,Selma Alameri,Selma,29,Real Estate Dealer,0,17,brown,346,4,1
+480,480,Taryn Renee Daniels,Taryn,30,Health Club Manager,0,17,blonde,347,10,1
+481,481,Tierra LiCausi,Tierra,24,Leasing Consultant,0,17,brown,112,38,1

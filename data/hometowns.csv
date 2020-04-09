@@ -1,0 +1,366 @@
+,city,state,country,city_id,state_id,country_id
+0,Chapel Hill,North Carolina,United States,0,0,1
+1,Kansas City,Missouri,United States,1,1,1
+2,New York,New York,United States,2,2,1
+3,Albertville,Alabama,United States,3,3,1
+4,Los Angeles,California,United States,4,4,1
+5,Granite City,Illinois,United States,5,5,1
+6,Boise,Idaho,United States,6,6,1
+7,Avondale,Arizona,United States,7,7,1
+8,Beverly Hills,California,United States,8,4,1
+9,Westchester,Pennsylvania,United States,9,8,1
+10,Houston,Texas,United States,10,9,1
+11,Long Beach,California,United States,11,4,1
+12,San Francisco,California,United States,12,4,1
+13,Philadelphia,Pennsylvania,United States,13,8,1
+14,Lake Oswego,Oregon,United States,14,10,1
+15,Walnut Creek,California,United States,15,4,1
+16,Dallas,Texas,United States,16,9,1
+17,Gloucester,New Jersey,United States,17,11,1
+18,Midvale,Utah,United States,18,12,1
+19,Coral Gables,Florida,United States,19,13,1
+20,Forked River,New Jersey,United States,20,11,1
+21,Long Island,New York,United States,21,2,1
+22,Redondo Beach,California,United States,22,4,1
+23,Richmond,Virginia,United States,23,14,1
+24,Chanute,Kansas,United States,24,15,1
+25,Burbank,California,United States,25,4,1
+26,Terra Haute,Indiana,United States,26,16,1
+27,Bonita,California,United States,27,4,1
+28,Seattle,Washington,United States,28,17,1
+29,Honolulu,Hawaii,United States,29,18,1
+30,Pittsburgh,Pennsylvania,United States,30,8,1
+31,Chicago,Illinois,United States,31,5,1
+32,Malden,Massachusetts,United States,32,19,1
+33,Tempe,Arizona,United States,33,7,1
+34,Swansea,Massachusetts,United States,34,19,1
+35,Eastchester,New York,United States,35,2,1
+36,Woodward,Oklahoma,United States,36,20,1
+37,Plano,Texas,United States,37,9,1
+38,Miami,Florida,United States,38,13,1
+39,Southlake,Texas,United States,39,9,1
+40,Sugar Land,Texas,United States,40,9,1
+41,Palo Alto,California,United States,41,4,1
+42,Birmingham,Alabama,United States,42,3,1
+43,Hilton Head Island,South Carolina,United States,43,21,1
+44,Lake Forest,Illinois,United States,44,5,1
+45,Bethel,Connecticut,United States,45,22,1
+46,Bronx,New York,United States,46,2,1
+47,Logansport,Louisiana,United States,47,23,1
+48,Minneapolis,Minnesota,United States,48,24,1
+49,Tampa,Florida,United States,49,13,1
+50,Ravenel,South Carolina,United States,50,21,1
+51,Cuyahoga Falls,Ohio,United States,51,25,1
+52,Lawrence,Kansas,United States,52,15,1
+53,Charleston,South Carolina,United States,53,21,1
+54,La Vergne,Tennessee,United States,54,26,1
+55,Folly Beach,South Carolina,United States,55,21,1
+56,Overland Park,Kansas,United States,56,15,1
+57,The Woodlands,Texas,United States,57,9,1
+58,St. Louis Park,Minnesota,United States,58,24,1
+59,Boston,Massachusetts,United States,59,19,1
+60,Lawton,Oklahoma,United States,60,20,1
+61,Denver,Colorado,United States,61,27,1
+62,San Mateo,California,United States,62,4,1
+63,West Palm Beach,Florida,United States,63,13,1
+64,Grants Pass,Oregon,United States,64,10,1
+65,San Diego,California,United States,65,4,1
+66,Belton,South Carolina,United States,66,21,1
+67,Holliston,Massachusetts,United States,67,19,1
+68,South Portland,Maine,United States,68,28,1
+69,Anderson,South Carolina,United States,69,21,1
+70,Morgantown,West Virginia,United States,70,29,1
+71,Raleigh,North Carolina,United States,71,0,1
+72,Northbrook,Illinois,United States,72,5,1
+73,Calgary,Alberta,Canada,73,30,2
+74,Santa Clarita,California,United States,74,4,1
+75,Missoula,Montana,United States,75,31,1
+76,Virginia Beach,Virginia,United States,76,14,1
+77,Indianapolis,Indiana,United States,77,16,1
+78,New Roads,Louisiana,United States,78,23,1
+79,American Fork,Utah,United States,79,12,1
+80,Salt Lake City,Utah,United States,80,12,1
+81,Geneseo,Illinois,United States,81,5,1
+82,Prior Lake,Minnesota,United States,82,24,1
+83,Fresno,California,United States,83,4,1
+84,Weiner,Arkansas,United States,84,32,1
+85,Nashville,Tennessee,United States,85,26,1
+86,Port Coquitlam,British Columbia,Canada,86,33,2
+87,Waverly,Nebraska,United States,87,34,1
+88,Detroit,Michigan,United States,88,35,1
+89,Rutherfordton,North Carolina,United States,89,0,1
+90,Colorado Springs,Colorado,United States,90,27,1
+91,Leawood,Kansas,United States,91,15,1
+92,Scottsdale,Arizona,United States,92,7,1
+93,San Gabriel,California,United States,93,4,1
+94,Charlottesville,Virginia,United States,94,14,1
+95,Salyersville,Kentucky,United States,95,36,1
+96,Newton,Massachusetts,United States,96,19,1
+97,Dryden,New York,United States,97,2,1
+98,Loveland,Ohio,United States,98,25,1
+99,Cache,Oklahoma,United States,99,20,1
+100,Clarksville,Tennessee,United States,100,26,1
+101,Newcastle,Washington,United States,101,17,1
+102,London,England,England,102,37,3
+103,Yuba,California,United States,103,4,1
+104,Hurst,Texas,United States,104,9,1
+105,Southampton,Massachusetts,United States,105,19,1
+106,Cincinnati,Ohio,United States,106,25,1
+107,Massapequa Park,New York,United States,107,2,1
+108,Portland,Oregon,United States,108,10,1
+109,Rancho Santa Margarita,California,United States,109,4,1
+110,Kankakee,Illinois,United States,110,5,1
+111,Hudson,Ohio,United States,111,25,1
+112,Las Vegas,Nevada,United States,112,38,1
+113,Branford,Connecticut,United States,113,22,1
+114,Newport Beach,California,United States,114,4,1
+115,St. Albert,Alberta,Canada,115,30,2
+116,Lauderdale Lakes,Florida,United States,116,13,1
+117,Boca Raton,Florida,United States,117,13,1
+118,Fort Lauderdale,Florida,United States,118,13,1
+119,Louisville,Kentucky,United States,119,36,1
+120,Stillwater,Oklahoma,United States,120,20,1
+121,West Linn,Oregon,United States,121,10,1
+122,Dexter,Michigan,United States,122,35,1
+123,Greenwood Village,Colorado,United States,123,27,1
+124,Visalia,California,United States,124,4,1
+125,Bristol,Virginia,United States,125,14,1
+126,Little Rock,Arkansas,United States,126,32,1
+127,Shreveport,Louisiana,United States,127,23,1
+128,New Smyrna Beach,Florida,United States,128,13,1
+129,Redmond,Washington,United States,129,17,1
+130,Columbus,Ohio,United States,130,25,1
+131,Madawaska,Maine,United States,131,28,1
+132,Ellerbe,North Carolina,United States,132,0,1
+133,Washington,D.C.,United States,133,39,1
+134,Holland,Pennsylvania,United States,134,8,1
+135,Woodinville,Washington,United States,135,17,1
+136,Mercer Island,Washington,United States,136,17,1
+137,Davie,Florida,United States,137,13,1
+138,Newnan,Georgia,United States,138,40,1
+139,Atlanta,Georgia,United States,139,40,1
+140,Newport,Rhode Island,United States,140,41,1
+141,Wichita,Kansas,United States,141,15,1
+142,Lady Lake,Florida,United States,142,13,1
+143,Frisco,Texas,United States,143,9,1
+144,Sherwood Park,Alberta,Canada,144,30,2
+145,Woodbridge,Connecticut,United States,145,22,1
+146,Orlando,Florida,United States,146,13,1
+147,Gurnee,Illinois,United States,147,5,1
+148,Culpeper,Virginia,United States,148,14,1
+149,Livonia,Michigan,United States,149,35,1
+150,Ottawa,Kansas,United States,150,15,1
+151,Dix Hills,New York,United States,151,2,1
+152,Annapolis,Maryland,United States,152,42,1
+153,Vail,Colorado,United States,153,27,1
+154,Mesa,Arizona,United States,154,7,1
+155,Lemon Grove,California,United States,155,4,1
+156,Princeton,New Jersey,United States,156,11,1
+157,Westchester,New York,United States,9,2,1
+158,Westport,Connecticut,United States,157,22,1
+159,South Brunswick,New Jersey,United States,158,11,1
+160,Duncanville,Texas,United States,159,9,1
+161,Fullerton,California,United States,160,4,1
+162,Mission Viejo,California,United States,161,4,1
+163,Palos Hills,Illinois,United States,162,5,1
+164,Saginaw,Michigan,United States,163,35,1
+165,O'Fallon,Illinois,United States,164,5,1
+166,Chico,California,United States,165,4,1
+167,Georgetown,Texas,United States,166,9,1
+168,Quincy,Massachusetts,United States,167,19,1
+169,St. Charles,Illinois,United States,168,5,1
+170,Hamilton,New Jersey,United States,169,11,1
+171,Lake in the Hills,Illinois,United States,170,5,1
+172,Great Falls,Virginia,United States,171,14,1
+173,Vinings,Georgia,United States,172,40,1
+174,Carpinteria,California,United States,173,4,1
+175,Wolcott Mills,Michigan,United States,174,35,1
+176,Temecula,California,United States,175,4,1
+177,Arlington,Texas,United States,176,9,1
+178,Gering,Nebraska,United States,177,34,1
+179,Howland,Ohio,United States,178,25,1
+180,Windsor,Colorado,United States,179,27,1
+181,Beaverton,Oregon,United States,180,10,1
+182,Leduc,Alberta,Canada,181,30,2
+183,Brownsville,Kentucky,United States,182,36,1
+184,Hudsonville,Michigan,United States,183,35,1
+185,Wantagh,New York,United States,184,2,1
+186,Maple Valley,Washington,United States,185,17,1
+187,Provo,Utah,United States,186,12,1
+188,Hasbrouck Heights,New Jersey,United States,187,11,1
+189,Manhattan Beach,California,United States,188,4,1
+190,Sandy,Utah,United States,189,12,1
+191,Wellington,Florida,United States,190,13,1
+192,Algonquin,Illinois,United States,191,5,1
+193,Vancouver,British Columbia,Canada,192,33,2
+194,Mequon,Wisconsin,United States,193,43,1
+195,Falmouth,Virginia,United States,194,14,1
+196,Toronto,Ontario,Canada,195,44,2
+197,McDonough,Georgia,United States,196,40,1
+198,Red Oak,Texas,United States,197,9,1
+199,Soldotna,Alaska,United States,198,45,1
+200,Encinitas,California,United States,199,4,1
+201,Northport,Alabama,United States,200,3,1
+202,Hoover,Alabama,United States,201,3,1
+203,Carlsbad,California,United States,202,4,1
+204,West Hollywood,California,United States,203,4,1
+205,Oviedo,Florida,United States,204,13,1
+206,Whittier,California,United States,205,4,1
+207,Manhattan,Kansas,United States,206,15,1
+208,Austin,Texas,United States,207,9,1
+209,Castle Pines,Colorado,United States,208,27,1
+210,Santa Ana,California,United States,209,4,1
+211,Rochester,New York,United States,210,2,1
+212,Galloway,Ohio,United States,211,25,1
+213,Williamstown,Massachusetts,United States,212,19,1
+214,North Potomac,Maryland,United States,213,42,1
+215,Winfield,Illinois,United States,214,5,1
+216,Santa Rosa,California,United States,215,4,1
+217,Kissimmee,Florida,United States,216,13,1
+218,Imperial,Nebraska,United States,217,34,1
+219,Union,Kentucky,United States,218,36,1
+220,La Follette,Tennessee,United States,219,26,1
+221,West Chester,Ohio,United States,220,25,1
+222,Oakville,Ontario,Canada,221,44,2
+223,Lexington,Kentucky,United States,222,36,1
+224,Norman,Oklahoma,United States,223,20,1
+225,Aurora,Colorado,United States,224,27,1
+226,Anaheim,California,United States,225,4,1
+227,Morris,Illinois,United States,226,5,1
+228,Newberg,Oregon,United States,227,10,1
+229,San Bernardino,California,United States,228,4,1
+230,Geneva,Florida,United States,229,13,1
+231,Phoenix,Arizona,United States,230,7,1
+232,Mt. Carmel,Pennsylvania,United States,231,8,1
+233,Monroe,Connecticut,United States,232,22,1
+234,Springfield,Massachusetts,United States,233,19,1
+235,Peace River,Alberta,Canada,234,30,2
+236,Lee's Summit,Missouri,United States,235,1,1
+237,Marlboro,New Jersey,United States,236,11,1
+238,Sewickley,Pennsylvania,United States,237,8,1
+239,Brookfield,Wisconsin,United States,238,43,1
+240,Morton,Illinois,United States,239,5,1
+241,Blue Island,Illinois,United States,240,5,1
+242,Recife,Pernambuco,Brazil,241,46,4
+243,Southfield,Michigan,United States,242,35,1
+244,Marshall,Missouri,United States,243,1,1
+245,Batavia,New York,United States,244,2,1
+246,Stockton,California,United States,245,4,1
+247,Orem,Utah,United States,246,12,1
+248,Huntsville,Alabama,United States,247,3,1
+249,Sunriver,Oregon,United States,248,10,1
+250,Quebec City,Quebec,Canada,249,47,2
+251,Ithaca,New York,United States,250,2,1
+252,Pinetops,North Carolina,United States,251,0,1
+253,Phillipsburg,New Jersey,United States,252,11,1
+254,Madison,New Jersey,United States,253,11,1
+255,Tulsa,Oklahoma,United States,254,20,1
+256,Gibson,North Carolina,United States,255,0,1
+257,Carrboro,North Carolina,United States,256,0,1
+258,Canton,Michigan,United States,257,35,1
+259,Huntington Beach,California,United States,258,4,1
+260,Pearsall,Texas,United States,259,9,1
+261,Sacramento,California,United States,260,4,1
+262,Pleasant Grove,Utah,United States,261,12,1
+263,Sausalito,California,United States,262,4,1
+264,Dearborn,Michigan,United States,263,35,1
+265,Midland,Texas,United States,264,9,1
+266,Buffalo,New York,United States,265,2,1
+267,Ann Arbor,Michigan,United States,266,35,1
+268,Shawnee,Oklahoma,United States,267,20,1
+269,Orland Park,Illinois,United States,268,5,1
+270,Apopka,Florida,United States,269,13,1
+271,Clermont,Florida,United States,270,13,1
+272,Buckhead,Georgia,United States,271,40,1
+273,Roanoke,Texas,United States,272,9,1
+274,Shelby Charter Township,Michigan,United States,273,35,1
+275,Lexington,Ohio,United States,222,25,1
+276,Aurora,Illinois,United States,224,5,1
+277,Litchfield,Illinois,United States,274,5,1
+278,Forty Fort,Pennsylvania,United States,275,8,1
+279,Iowa City,Iowa,United States,276,48,1
+280,Conyers,Georgia,United States,277,40,1
+281,Rockford,Illinois,United States,278,5,1
+282,Antelope Acres,California,United States,279,4,1
+283,Edmond,Oklahoma,United States,280,20,1
+284,Santa Barbara,California,United States,281,4,1
+285,Wagener,South Carolina,United States,282,21,1
+286,Kearney,Missouri,United States,283,1,1
+287,Martha's Vineyard,Massachusetts,United States,284,19,1
+288,Ottawa,Ontario,Canada,150,44,2
+289,Sutter,California,United States,285,4,1
+290,Porto Alegre,Porto Alegre,Brazil,286,49,4
+291,Venice,Venice,Italy,287,50,5
+292,Cattaraugus,New York,United States,288,2,1
+293,Rome,Rome,Italy,289,51,5
+294,New Haven,Connecticut,United States,290,22,1
+295,Aliquippa,Pennsylvania,United States,291,8,1
+296,Galveston,Texas,United States,292,9,1
+297,Bloomingdale,Illinois,United States,293,5,1
+298,Pembroke Pines,Florida,United States,294,13,1
+299,Charlotte,North Carolina,United States,295,0,1
+300,Biloxi,Mississippi,United States,296,52,1
+301,Baltimore,Maryland,United States,297,42,1
+302,Nelson,British Columbia,Canada,298,33,2
+303,St. Augustine,Florida,United States,299,13,1
+304,LaFollette,Tennessee,United States,300,26,1
+305,Niceville,Florida,United States,301,13,1
+306,Jacksonville Beach,Florida,United States,302,13,1
+307,Oklahoma City,Oklahoma,United States,303,20,1
+308,Durango,Colorado,United States,304,27,1
+309,Venice,California,United States,287,4,1
+310,Suffield,Ohio,United States,305,25,1
+311,Hollywood,California,United States,306,4,1
+312,Dillsburg,Pennsylvania,United States,307,8,1
+313,Brooklyn,New York,United States,308,2,1
+314,Laguna Niguel,California,United States,309,4,1
+315,Syracuse,New York,United States,310,2,1
+316,Loveland,Colorado,United States,98,27,1
+317,Alamo,California,United States,311,4,1
+318,Holland,Michigan,United States,134,35,1
+319,Malibu,California,United States,312,4,1
+320,Secaucus,New Jersey,United States,313,11,1
+321,Cumberland,Maryland,United States,314,42,1
+322,Santa Monica,California,United States,315,4,1
+323,Martinsville,Indiana,United States,316,16,1
+324,Danville,California,United States,317,4,1
+325,Colgate,Wisconsin,United States,318,43,1
+326,New Trier,Illinois,United States,319,5,1
+327,Harlingen,Texas,United States,320,9,1
+328,New Orleans,Louisiana,United States,321,23,1
+329,Tacoma,Washington,United States,322,17,1
+330,Maplewood,New Jersey,United States,323,11,1
+331,Santa Cruz,California,United States,324,4,1
+332,Montville Township,New Jersey,United States,325,11,1
+333,Naples,Florida,United States,326,13,1
+334,Scottsbluff,Nebraska,United States,327,34,1
+335,Anchorage,Alaska,United States,328,45,1
+336,Hoxie,Arkansas,United States,329,32,1
+337,Palmdale,California,United States,330,4,1
+338,Montreal,Quebec,Canada,331,47,2
+339,Chanhassen,Minnesota,United States,332,24,1
+340,Macomb,Michigan,United States,333,35,1
+341,Northglenn,Colorado,United States,334,27,1
+342,Ormond Beach,Florida,United States,335,13,1
+343,Chattanooga,Tennessee,United States,336,26,1
+344,Darien,Wisconsin,United States,337,43,1
+345,Stevenson Ranch,California,United States,338,4,1
+346,Cranston,Rhode Island,United States,339,41,1
+347,Fort Smith,Arkansas,United States,340,32,1
+348,Ruskin,Florida,United States,341,13,1
+349,Fort Bragg,North Carolina,United States,342,0,1
+350,Minnetonka,Minnesota,United States,343,24,1
+351,Topeka,Kansas,United States,344,15,1
+352,Evergreen,Colorado,United States,345,27,1
+353,Borrego Springs,California,United States,346,4,1
+354,Troutdale,Oregon,United States,347,10,1
+355,Butler,Missouri,United States,348,1,1
+357,Lancaster,Pennsylvania,United States,349,8,1
+359,Sonoma,California,United States,350,4,1
+360,Warsaw,Indiana,United States,351,16,1
+363,Arlington,Iowa,United States,176,48,1
+364,Washington,Illinois,United States,133,5,1
+366,Cleveland,Ohio,United States,352,25,1
+369,Milan,Italy,Italy,353,53,5
+371,Milwaukee,Wisconsin,United States,354,43,1
+372,McKinney,Texas,United States,355,9,1
