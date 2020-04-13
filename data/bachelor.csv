@@ -1,4 +1,4 @@
-,bachelor_name,bachelor_age,bachelor_height_in,bachelor_hair,season_lead,bach_id,his_city_id,his_state_id,his_country_id
+,name,age,height,hair,season_lead,bach_id,his_city_id,his_state_id,his_country_id
 0,Aaron Buerge,28,72,brown,2,0,348,1,1
 1,Alex Michel,32,72,brown,1,1,94,14,1
 2,Andy Baldwin,30,72,light brown,10,2,349,8,1
